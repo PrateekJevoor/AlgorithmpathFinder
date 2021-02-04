@@ -5,7 +5,7 @@ the way this is played is
 move the code to a text editor 
 and execute the code 
 a window appears where using the mouse right click to place start and end point 
-do not remove the finger for the mouse and create walls in between in needed.
+do not remove the finger from the mouse and create walls inbetween if needed.
 while pressing the right click on mouse press enter to begin the animation
 The animation when complete will give the shortest path between the two points.
 
